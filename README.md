@@ -21,7 +21,11 @@
 
 ## 👤 About
 
-AI/ML and Data Engineering professional building end-to-end machine learning pipelines, automated workflows, and production-ready data systems across **finance, energy, insurance, and agriculture** — trained through the **Kifiya AI Mastery (KAIM)** 12-week intensive, **IBM AI Mastery Award**, **Arizona State University / Thunderbird** Data Analytics & Digital Transformation program, and the **10 Academy TRP1** Tenacious Intelligence program. As a **Forward Deployed Engineer (FDE)**, I embed directly inside client and production environments to deliver scalable, real-world ML solutions with measurable impact. Passionate about mentoring the next generation of AI/ML engineers toward production-grade skill development.
+Forward Deployed Engineer (FDE) specializing in AI/ML and Data Engineering, embedding directly inside client and production environments to deliver scalable, real-world ML solutions with measurable impact.
+Experienced in building end-to-end machine learning pipelines, automated workflows, and production-ready data systems across finance, energy, insurance, and agriculture.
+Skilled in forecasting, anomaly detection, NLP, fraud modeling, credit scoring, and RAG-based applications using Python, SQL, FastAPI, Docker, Dagster, and dbt.
+Trained through the Kifiya AI Mastery (KAIM) intensive, IBM AI Mastery Award, ASU/Thunderbird Data Analytics & Digital Transformation program, and the 10 Academy TRP1 Tenacious Intelligence program.
+Aiming to grow into ML system architecture and leadership roles while mentoring the next generation of AI/ML and data engineering practitioners toward production-grade technical skill development.
 
 ---
 
