@@ -21,11 +21,6 @@
 
 <br/>
 
-<!-- Typing animation -->
-<a href="https://github.com/gashawbekele06">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=3500&pause=800&color=39D353&center=true&vCenter=true&width=600&lines=Building+end-to-end+ML+pipelines+in+production;Forward+Deployed+Engineer+%E2%80%94+inside+client+environments;RAG+%C2%B7+Agentic+Systems+%C2%B7+MLOps+Infrastructure;Fraud+modeling+%C2%B7+Forecasting+%C2%B7+NLP+at+scale" alt="Typing animation"/>
-</a>
-
 <br/><br/>
 
 <!-- Social badges -->
