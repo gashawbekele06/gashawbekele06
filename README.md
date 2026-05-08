@@ -21,19 +21,7 @@
 
 ## 👤 About
 
-AI/ML and Data Engineering professional building end-to-end machine learning pipelines, automated workflows, and production-ready data systems across **finance, energy, insurance, and agriculture**.
-
-As a **Forward Deployed Engineer (FDE)**, I work directly inside client and production environments — embedding engineering expertise to deliver scalable, real-world ML and data solutions.
-
-Skilled in **forecasting, anomaly detection, NLP, fraud modeling, credit scoring, and RAG-based applications** using Python, SQL, FastAPI, Docker, Dagster, and dbt.
-
-| | |
-|---|---|
-| 🎯 **Short-term** | AI/ML Engineer — scalable ML pipelines and production model deployment |
-| 🚀 **Long-term** | ML system architecture and leadership — large-scale intelligent systems |
-| 🎓 **Teaching** | Mentoring AI, ML, and data engineering for production-grade skill development |
-| 🔭 **Now building** | Agentic pipelines · RAG systems · MLOps infrastructure |
-| 💬 **Ask me about** | ML pipelines · Data contracts · Fraud modeling · NLP · FastAPI · dbt |
+AI/ML and Data Engineering professional building end-to-end machine learning pipelines, automated workflows, and production-ready data systems across **finance, energy, insurance, and agriculture** — trained through the **Kifiya AI Mastery (KAIM)** 12-week intensive, **IBM AI Mastery Award**, **Arizona State University / Thunderbird** Data Analytics & Digital Transformation program, and the **10 Academy TRP1** Tenacious Intelligence program. As a **Forward Deployed Engineer (FDE)**, I embed directly inside client and production environments to deliver scalable, real-world ML solutions with measurable impact. Passionate about mentoring the next generation of AI/ML engineers toward production-grade skill development.
 
 ---
 
