@@ -23,7 +23,7 @@
 
 Forward Deployed Engineer (FDE) specializing in AI/ML and Data Engineering, embedding directly inside client and production environments to deliver scalable, real-world ML solutions with measurable impact.
 Experienced in building end-to-end ML pipelines, automated workflows, and production-ready data systems across finance, energy, insurance, and agriculture using Python, SQL, FastAPI, Docker, Dagster, and dbt.
-Skilled in forecasting, anomaly detection, NLP, fraud modeling, credit scoring, and RAG-based applications; trained through KAIM, IBM AI Mastery Award, ASU/Thunderbird, and 10 Academy TRP1 programs.
+Skilled in forecasting, anomaly detection, NLP, fraud modeling, credit scoring, and RAG-based applications; trained through KAIM, IBM AI Mastery Award, ASU, and 10 Academy TRP1 programs.
 Aiming to grow into ML system architecture and leadership roles while mentoring the next generation of AI/ML and data engineering practitioners toward production-grade technical skill development.
 
 ---
