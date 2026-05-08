@@ -1,23 +1,22 @@
 <div align="center">
+
 <!-- ═══════════════════════════════════════════════════════════════════
      GASHAW BEKELE — GITHUB PROFILE README  ·  2026 EDITION
      ═══════════════════════════════════════════════════════════════════ -->
 
-# Gashaw Bekele
-
-### AI / ML Engineer · Forward Deployed Engineer · Data Engineering
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gashaw-bekele/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/gashawbekele06)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your@email.com)
-
-![Profile Views](https://komarev.com/ghpvc/?username=gashawbekele06&label=Profile%20views&color=0e75b6&style=flat)
-
-</div>
-
----
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:0E4429,100:39D353&height=200&section=header&text=Gashaw%20Bekele&fontSize=52&fontColor=FFFFFF&fontAlignY=38&desc=AI%20%2F%20ML%20Engineer%20%C2%B7%20Forward%20Deployed%20Engineer%20%C2%B7%20Data%20Engineering&descAlignY=58&descSize=16&animation=fadeIn"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:f8fafc,50:dcfce7,100:16a34a&height=200&section=header&text=Gashaw%20Bekele&fontSize=52&fontColor=0f172a&fontAlignY=38&desc=AI%20%2F%20ML%20Engineer%20%C2%B7%20Forward%20Deployed%20Engineer%20%C2%B7%20Data%20Engineering&descAlignY=58&descSize=16&animation=fadeIn" width="100%"/>
+</picture>
 
 <br/>
+
+<!-- Typing animation -->
+<a href="https://github.com/gashawbekele06">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=3500&pause=800&color=39D353&center=true&vCenter=true&width=600&lines=Building+end-to-end+ML+pipelines+in+production;Forward+Deployed+Engineer+%E2%80%94+inside+client+environments;RAG+%C2%B7+Agentic+Systems+%C2%B7+MLOps+Infrastructure;Fraud+modeling+%C2%B7+Forecasting+%C2%B7+NLP+at+scale" alt="Typing animation"/>
+</a>
+
+<br/><br/>
 
 <!-- Social badges -->
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Gashaw_Bekele-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gashaw-bekele/)
