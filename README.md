@@ -1,7 +1,4 @@
 <div align="center">
-<!-- ═══════════════════════════════════════════════════════════════════
-     GASHAW BEKELE — GITHUB PROFILE README  ·  2026 EDITION
-     ═══════════════════════════════════════════════════════════════════ -->
 
 # Gashaw Bekele
 
@@ -21,10 +18,23 @@
 
 ## 👤 About
 
+<table>
+<tr>
+<td width="60"></td>
+<td>
+
 Forward Deployed Engineer (FDE) specializing in AI/ML and Data Engineering, embedding directly inside client and production environments to deliver scalable, real-world ML solutions with measurable impact.
+
 Experienced in building end-to-end ML pipelines, automated workflows, and production-ready data systems across finance, energy, insurance, and agriculture using Python, SQL, FastAPI, Docker, Dagster, and dbt.
+
 Skilled in forecasting, anomaly detection, NLP, fraud modeling, credit scoring, and RAG-based applications; trained through KAIM, IBM AI Mastery Award, ASU, and 10 Academy TRP1 programs.
+
 Aiming to grow into ML system architecture and leadership roles while mentoring the next generation of AI/ML and data engineering practitioners toward production-grade technical skill development.
+
+</td>
+<td width="60"></td>
+</tr>
+</table>
 
 ---
 
@@ -32,29 +42,23 @@ Aiming to grow into ML system architecture and leadership roles while mentoring 
 
 **Core Frameworks**
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
 
 **ML Libraries & LLM Tooling**
 
 ![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
-![Transformers](https://img.shields.io/badge/Transformers-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-![XGBoost](https://img.shields.io/badge/XGBoost-FF6600?style=for-the-badge)
-![LightGBM](https://img.shields.io/badge/LightGBM-02569B?style=for-the-badge)
-
-**Explainability & Experimentation**
-
-![SHAP](https://img.shields.io/badge/SHAP-7C3AED?style=for-the-badge)
-![LIME](https://img.shields.io/badge/LIME-2E7D32?style=for-the-badge)
 ![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white)
 
-**Domains**
+**Agentic AI & Protocols**
 
-`Forecasting` · `Time Series` · `Anomaly Detection` · `NLP` · `RAG` · `Fraud Modeling` · `Credit Scoring` · `Computer Vision` · `Agentic Systems`
+![Agentic AI](https://img.shields.io/badge/Agentic%20AI-6E40C9?style=for-the-badge&logo=probot&logoColor=white)
+![MCP](https://img.shields.io/badge/MCP-000000?style=for-the-badge&logo=anthropic&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
 
 ---
 
@@ -81,11 +85,6 @@ Aiming to grow into ML system architecture and leadership roles while mentoring 
 ![Prefect](https://img.shields.io/badge/Prefect-070E10?style=for-the-badge&logo=prefect&logoColor=white)
 ![dbt](https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&logo=dbt&logoColor=white)
 
-**Capabilities**
-- ETL and ELT pipelines · Sensor data processing
-- Data cleaning and transformation · Analytics workflows
-- Structured and unstructured data handling · Reporting and visualization
-
 ---
 
 ## 🔧 Backend, APIs & Software Systems
@@ -93,6 +92,8 @@ Aiming to grow into ML system architecture and leadership roles while mentoring 
 **Languages**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -105,11 +106,11 @@ Aiming to grow into ML system architecture and leadership roles while mentoring 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
-![Plotly Dash](https://img.shields.io/badge/Plotly%20Dash-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
+![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
 
 **APIs & Integration**
 
-![REST API](https://img.shields.io/badge/REST%20API-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
 ![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge&logo=sqlalchemy&logoColor=white)
 ![Axios](https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge&logo=axios&logoColor=white)
@@ -132,11 +133,6 @@ Aiming to grow into ML system architecture and leadership roles while mentoring 
 ![DVC](https://img.shields.io/badge/DVC-13ADC7?style=for-the-badge&logo=dvc&logoColor=white)
 ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
-
-**Capabilities**
-- Containerization · Reproducible environments
-- CI and CD fundamentals · Experiment tracking
-- Monitoring and observability · Deployment workflows
 
 ---
 
