@@ -20,7 +20,7 @@
 <table>
 <tr>
 <td>
-Forward Deployed Engineer (FDE) specializing in AI/ML and Data Engineering, embedding inside client and production environments to deliver scalable, real-world ML solutions. I build end-to-end ML pipelines and production-ready data systems across finance, energy, insurance, and agriculture using Python, SQL, FastAPI, Docker, Dagster, and dbt — with applied experience in forecasting, anomaly detection, NLP, fraud modeling, credit scoring, and RAG-based applications. Trained through KAIM, IBM AI Mastery Award, ASU, and 10 Academy TRP1.
+Forward Deployed Engineer (FDE) specializing in AI/ML and Data Engineering, embedding inside client and production environments to deliver scalable, real-world ML solutions. I build end-to-end ML pipelines and production-ready data systems across finance, energy, insurance, and agriculture using Python, SQL, FastAPI, Docker, Dagster, and dbt — with applied experience in forecasting, anomaly detection, NLP, fraud modeling, credit scoring, and RAG-based applications. Trained through 10Academy, IBM AI Mastery Award, Arizona State University, and 10 Academy TRP1, where projects covered the full FDE engineering stack - from automated auditing and codebase intelligence to document refinement and ML benchmarking — each built as a deployable, production-grade system.
 </td>
 </tr>
 </table>
