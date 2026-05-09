@@ -34,7 +34,7 @@ auditing, codebase intelligence, document refinement, and ML benchmarking.
 
 ---
 
-## 🧠 Machine Learning, AI & Analytics
+## Machine Learning, AI & Analytics
 
 **Core Frameworks**
 
@@ -58,7 +58,7 @@ auditing, codebase intelligence, document refinement, and ML benchmarking.
 
 ---
 
-## 🗄️ Data Science & Data Engineering
+## Data Science & Data Engineering
 
 **Databases**
 
@@ -83,7 +83,7 @@ auditing, codebase intelligence, document refinement, and ML benchmarking.
 
 ---
 
-## 🔧 Backend, APIs & Software Systems
+## Backend, APIs & Software Systems
 
 **Languages**
 
@@ -113,7 +113,7 @@ auditing, codebase intelligence, document refinement, and ML benchmarking.
 
 ---
 
-## ⚙️ DevOps, Deployment & MLOps
+## DevOps, Deployment & MLOps
 
 **Containerization & CI/CD**
 
@@ -132,7 +132,7 @@ auditing, codebase intelligence, document refinement, and ML benchmarking.
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
 | Project | Description | Stack |
 |---------|-------------|-------|
@@ -175,7 +175,7 @@ auditing, codebase intelligence, document refinement, and ML benchmarking.
 
 ---
 
-## 🏆 GitHub Trophies
+## GitHub Trophies
 
 <div align="center">
 
@@ -185,7 +185,7 @@ auditing, codebase intelligence, document refinement, and ML benchmarking.
 
 ---
 
-## 📫 Connect
+## Connect
 
 <div align="center">
 
@@ -200,5 +200,5 @@ auditing, codebase intelligence, document refinement, and ML benchmarking.
 <div align="center">
   <sub>Building intelligent systems · one pipeline at a time</sub>
   <br/>
-  <sub>Made with ❤️ by <a href="https://github.com/gashawbekele06">Gashaw Bekele</a></sub>
+  <sub>Made with by <a href="https://github.com/gashawbekele06">Gashaw Bekele</a></sub>
 </div>
