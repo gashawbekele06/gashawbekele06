@@ -151,8 +151,7 @@ auditing, codebase intelligence, document refinement, and ML benchmarking.
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=gashawbekele06&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true" alt="Gashaw's GitHub stats"/>
-&nbsp;
+
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gashawbekele06&layout=compact&langs_count=10&theme=github_dark&hide_border=true" alt="Top Languages"/>
 
 </div>
