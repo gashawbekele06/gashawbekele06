@@ -16,14 +16,12 @@
 
 ---
 
-About
+## About
 <table>
 <tr>
-<td width="60"></td>
 <td>
 Forward Deployed Engineer (FDE) specializing in AI/ML and Data Engineering, embedding inside client and production environments to deliver scalable, real-world ML solutions. I build end-to-end ML pipelines and production-ready data systems across finance, energy, insurance, and agriculture using Python, SQL, FastAPI, Docker, Dagster, and dbt — with applied experience in forecasting, anomaly detection, NLP, fraud modeling, credit scoring, and RAG-based applications. Trained through KAIM, IBM AI Mastery Award, ASU, and 10 Academy TRP1.
 </td>
-<td width="60"></td>
 </tr>
 </table>
 
