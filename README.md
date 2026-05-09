@@ -136,14 +136,14 @@ auditing, codebase intelligence, document refinement, and ML benchmarking.
 
 | Project | Description | Stack |
 |---------|-------------|-------|
-| [**Agentic Event Store & Enterprise Audit Infrastructure**](https://github.com/gashawbekele06/Agentic-Event-Store-Enterprise-Audit-Infrastructure) | Agentic event-driven audit infrastructure for enterprise systems | Python · Agents · Event Store |
-| [**Medical Telegram Warehouse**](https://github.com/gashawbekele06/Medical-telegram-warehouse) | End-to-end ELT: Telegram scraping → dbt warehouse → YOLO enrichment → FastAPI → Dagster | dbt · YOLO · FastAPI · Dagster |
 | [**Conversion Engine**](https://github.com/gashawbekele06/conversion-engine) | Automated ML-powered conversion pipeline engine | Python · ML |
 | [**Data Contract Enforcer**](https://github.com/gashawbekele06/Data-Contract-Enforcer) | Schema validation and data contract enforcement across pipeline stages | Python · Data Quality |
 | [**Document Intelligence Refinery**](https://github.com/gashawbekele06/week3-document-intelligence-refinery) | Intelligent document processing, extraction, and enrichment | NLP · RAG · LLMs |
 | [**Codebase Intelligence Systems**](https://github.com/gashawbekele06/TRP1-Week4-Codebase-Intelligence-Systems) | AI-powered codebase analysis and developer intelligence layer | LLM · Agents · AST |
 | [**FDE Automaton Auditor**](https://github.com/gashawbekele06/TRP1-Week2-FDE-automaton-auditor) | Automated auditing system for Forward Deployed Engineering workflows | Python · Automation |
 | [**Tenacious Bench**](https://github.com/gashawbekele06/tenacious-bench) | Rigorous benchmarking suite for ML systems and pipelines | Python · Benchmarking |
+| [**Agentic Event Store & Enterprise Audit Infrastructure**](https://github.com/gashawbekele06/Agentic-Event-Store-Enterprise-Audit-Infrastructure) | Agentic event-driven audit infrastructure for enterprise systems | Python · Agents · Event Store |
+| [**Medical Telegram Warehouse**](https://github.com/gashawbekele06/Medical-telegram-warehouse) | End-to-end ELT: Telegram scraping → dbt warehouse → YOLO enrichment → FastAPI → Dagster | dbt · YOLO · FastAPI · Dagster |
 
 ---
 
